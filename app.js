@@ -5,28 +5,28 @@ var fruits = [
     title: "Phalon ka badshah",
     types: ["Chounsa", "Sindhri", "Langra", "Anwaratol", "Almaas"],
     image:
-      "https://images.unsplash.com/photo-1591073113125-e46713c829ed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TWFuZ298ZW58MHx8MHx8fDA%3D",
+      "https://www.gulab.pk/lahore/wp-content/uploads/sites/29/2022/02/fajri-mango.jpg",
   },
   {
     name: "Watermelon",
     title: "Garmi ka dushman",
     types: ["Red Melon", "Green Melon"],
     image:
-      "https://images.unsplash.com/photo-1621583441131-c8c190794970?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2F0ZXIlMjBtZWxvbnxlbnwwfHwwfHx8MA%3D%3D",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh5hUDAw4pVY0TaupvqLvx6BfpSxGyxZz3og&s",
   },
   {
     name: "Peach",
     title: "Juicy Peach",
     types: ["Swat Wala", "Quetta Wala"],
     image:
-      "https://images.unsplash.com/photo-1629828874514-c1e5103f2150?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGVhY2h8ZW58MHx8MHx8fDA%3D",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9ganOjKSr55wJEuV1kSygTSxw0UtJA4Egw&s",
   },
   {
     name: "Cherry",
     title: "Khoon banane wali",
     types: ["Black Cherry", "Red Cherry"],
     image:
-      "https://plus.unsplash.com/premium_photo-1688671921089-628b61dae149?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2hlcnJ5fGVufDB8fDB8fHww",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWczfji7SrBcKRPC6foxzXipwGTKikHaoIdg&s",
   },
   {
     title: "Orange",
